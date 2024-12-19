@@ -4,7 +4,7 @@
   vars:
     login_host: db.mounka.shop
   vars_prompt:
-  - name: password
+  - name: login_password
     prompt: please enter password
     private: yes
   tasks:
