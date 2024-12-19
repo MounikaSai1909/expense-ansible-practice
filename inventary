@@ -3,3 +3,6 @@ db.mounka.shop
 
 [backend]
 backend.mounka.shop
+
+[frontend]
+frontend.mounka.shop
